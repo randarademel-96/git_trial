@@ -11,6 +11,8 @@ public class TrialApplication {
 		System.out.println("Git Trial");
 
 		System.out.println("Added Teacher");
+
+		System.out.println("Added 0");
 	}
 
 }
