@@ -9,6 +9,10 @@ public class TrialApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TrialApplication.class, args);
 		System.out.println("Git Trial");
+
+		System.out.println("Added Teacher");
+
+		System.out.println("Added 0");
 	}
 
 }
